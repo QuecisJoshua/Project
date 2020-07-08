@@ -1,0 +1,1 @@
+turn this._setIconStyles(a,"shadow"),a}}),L.ExtraMarkers.icon=function(a){return new L.ExtraMarkers.Icon(a)}}(window,document);
